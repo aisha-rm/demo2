@@ -1,1 +1,1 @@
-Class notes
+Notes taken during my classes with Kadatemy
